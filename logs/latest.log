@@ -1,0 +1,76 @@
+[21:19:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[21:19:03] [ServerMain/INFO]: No existing world data, creating new world
+[21:19:06] [ServerMain/INFO]: Loaded 1407 recipes
+[21:19:06] [ServerMain/INFO]: Loaded 1520 advancements
+[21:19:06] [Server thread/INFO]: Starting minecraft server version 1.21.7
+[21:19:06] [Server thread/INFO]: Loading properties
+[21:19:06] [Server thread/INFO]: Default game type: SURVIVAL
+[21:19:06] [Server thread/INFO]: Generating keypair
+[21:19:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+[21:19:07] [Server thread/INFO]: Using epoll channel type
+[21:19:07] [Server thread/INFO]: Preparing level "our_world"
+[21:19:27] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[21:19:27] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:19:28] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:19:28] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:19:28] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:19:29] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:19:29] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:19:30] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:19:30] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:19:31] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[21:19:31] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:19:32] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:19:32] [Worker-Main-1/INFO]: Preparing spawn area: 2%
+[21:19:33] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[21:19:33] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[21:19:34] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[21:19:34] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[21:19:35] [Worker-Main-2/INFO]: Preparing spawn area: 18%
+[21:19:35] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[21:19:36] [Worker-Main-3/INFO]: Preparing spawn area: 18%
+[21:19:36] [Worker-Main-2/INFO]: Preparing spawn area: 22%
+[21:19:37] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[21:19:37] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[21:19:38] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[21:19:38] [Worker-Main-3/INFO]: Preparing spawn area: 51%
+[21:19:39] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[21:19:39] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[21:19:40] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[21:19:40] [Worker-Main-2/INFO]: Preparing spawn area: 51%
+[21:19:41] [Worker-Main-1/INFO]: Preparing spawn area: 51%
+[21:19:41] [Server thread/INFO]: Time elapsed: 14341 ms
+[21:19:41] [Server thread/INFO]: Done (34.205s)! For help, type "help"
+[21:20:20] [User Authenticator #1/INFO]: UUID of player kayleigh019 is 947c5ab0-31a5-4656-a124-c2ba6619cf24
+[21:20:21] [Server thread/INFO]: kayleigh019[/192.168.1.70:53417] logged in with entity id 26 at (-510.5, 94.0, -127.5)
+[21:20:21] [Server thread/INFO]: kayleigh019 joined the game
+[21:20:56] [User Authenticator #2/INFO]: UUID of player spyder4913 is 058eae05-3c71-4496-986b-f50e4261d272
+[21:20:56] [Server thread/INFO]: spyder4913[/192.168.1.164:55185] logged in with entity id 216 at (-514.5, 106.0, -118.5)
+[21:20:56] [Server thread/INFO]: spyder4913 joined the game
+[21:23:46] [Server thread/INFO]: <kayleigh019> hi
+[21:25:09] [Server thread/INFO]: kayleigh019 has made the advancement [Stone Age]
+[21:25:25] [Server thread/INFO]: spyder4913 has made the advancement [Stone Age]
+[21:27:12] [Server thread/INFO]: spyder4913 has made the advancement [Getting an Upgrade]
+[21:30:36] [Server thread/INFO]: kayleigh019 was slain by Drowned
+[21:30:54] [Server thread/INFO]: spyder4913 has made the advancement [Monster Hunter]
+[21:31:36] [Server thread/INFO]: kayleigh019 has made the advancement [Getting an Upgrade]
+[21:33:41] [Server thread/INFO]: kayleigh019 was slain by Enderman
+[21:34:05] [Server thread/INFO]: kayleigh019 has made the advancement [Monster Hunter]
+[21:36:12] [Server thread/INFO]: spyder4913 was slain by Zombie
+[21:36:13] [Server thread/INFO]: kayleigh019 was slain by Zombie
+[21:36:56] [Server thread/INFO]: spyder4913 was slain by Zombie
+[21:39:35] [Server thread/INFO]: kayleigh019 was slain by Zombie
+[21:40:09] [Server thread/INFO]: spyder4913 has made the advancement [Fishy Business]
+[21:43:41] [Server thread/INFO]: kayleigh019 has made the advancement [A Seedy Place]
+[22:28:17] [Server thread/INFO]: spyder4913 lost connection: Timed out
+[22:28:17] [Server thread/INFO]: spyder4913 left the game
+[22:28:17] [Server thread/WARN]: handleDisconnection() called twice
+[22:28:31] [User Authenticator #3/INFO]: UUID of player spyder4913 is 058eae05-3c71-4496-986b-f50e4261d272
+[22:28:31] [Server thread/INFO]: spyder4913[/192.168.1.164:56389] logged in with entity id 13246 at (-614.033434843887, 51.0, 132.79056590064877)
+[22:28:31] [Server thread/INFO]: spyder4913 joined the game
+[22:29:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2204ms or 44 ticks behind
+[22:30:23] [Server thread/INFO]: spyder4913 lost connection: Disconnected
+[22:30:23] [Server thread/INFO]: spyder4913 left the game
+[22:30:52] [Server thread/INFO]: kayleigh019 lost connection: Disconnected
+[22:30:52] [Server thread/INFO]: kayleigh019 left the game
+[22:31:52] [Server thread/INFO]: Server empty for 60 seconds, pausing
